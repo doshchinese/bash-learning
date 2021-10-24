@@ -1,0 +1,4 @@
+* WHO THIS COURSE IS FOR *
+==========================
+
+This course is for anyone who wants to learn git.
